@@ -33,7 +33,8 @@
 #hero img{
    height: 250px;
    width: 150px;
-   border-radius: 10%;
+   border-radius: 5%;
+   gap: 5px;
 }
 #edu{
    display: flex;
@@ -53,5 +54,5 @@
    background-color: pink;
 }
 #college{
-   background-color: plum;
+   background-color: plum;;
 }
